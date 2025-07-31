@@ -1,0 +1,502 @@
+[
+  {
+    "number": 1,
+    "title": "Every Breath You Take",
+    "page": 10
+  },
+  {
+    "number": 2,
+    "title": "Wrong Turn",
+    "page": 23
+  },
+  {
+    "number": 3,
+    "title": "Noosed 14",
+    "page": null
+  },
+  {
+    "number": 4,
+    "title": "One Head Short",
+    "page": 14
+  },
+  {
+    "number": 5,
+    "title": "The Brains and the Prophecy",
+    "page": 20
+  },
+  {
+    "number": 6,
+    "title": "Poaching 15",
+    "page": null
+  },
+  {
+    "number": 7,
+    "title": "Shot the Messenger",
+    "page": 17
+  },
+  {
+    "number": 8,
+    "title": "Stranger on the Road",
+    "page": 19
+  },
+  {
+    "number": 9,
+    "title": "Wrong Way Around",
+    "page": 23
+  },
+  {
+    "number": 10,
+    "title": "Greasy Situation",
+    "page": 11
+  },
+  {
+    "number": 11,
+    "title": "Fortune Teller",
+    "page": 10
+  },
+  {
+    "number": 12,
+    "title": "Cleaner 7",
+    "page": null
+  },
+  {
+    "number": 13,
+    "title": "Magistrates 13",
+    "page": null
+  },
+  {
+    "number": 14,
+    "title": "Ogre Scent",
+    "page": 14
+  },
+  {
+    "number": 15,
+    "title": "Duke\u2019s Aid",
+    "page": 9
+  },
+  {
+    "number": 16,
+    "title": "Spooked 18",
+    "page": null
+  },
+  {
+    "number": 17,
+    "title": "Froglegs at Breakfast",
+    "page": 10
+  },
+  {
+    "number": 18,
+    "title": "Dead Men Riding",
+    "page": 8
+  },
+  {
+    "number": 19,
+    "title": "Ogre and the Babe",
+    "page": 14
+  },
+  {
+    "number": 20,
+    "title": "Bad Hunt",
+    "page": 5
+  },
+  {
+    "number": 21,
+    "title": "Bloody Surprise",
+    "page": 6
+  },
+  {
+    "number": 22,
+    "title": "Troll-ish 21",
+    "page": null
+  },
+  {
+    "number": 23,
+    "title": "Pale Mornings",
+    "page": 15
+  },
+  {
+    "number": 24,
+    "title": "Stalked 18",
+    "page": null
+  },
+  {
+    "number": 25,
+    "title": "Tit for Tat",
+    "page": 21
+  },
+  {
+    "number": 26,
+    "title": "Hungry Fog",
+    "page": 12
+  },
+  {
+    "number": 27,
+    "title": "Murders 13",
+    "page": null
+  },
+  {
+    "number": 28,
+    "title": "Harpy Song",
+    "page": 11
+  },
+  {
+    "number": 29,
+    "title": "Farmers Dogs",
+    "page": 10
+  },
+  {
+    "number": 30,
+    "title": "Tax Collector",
+    "page": 19
+  },
+  {
+    "number": 31,
+    "title": "Bluecap 6",
+    "page": null
+  },
+  {
+    "number": 32,
+    "title": "Fated Painter",
+    "page": 10
+  },
+  {
+    "number": 33,
+    "title": "Untouched 22",
+    "page": null
+  },
+  {
+    "number": 34,
+    "title": "Shame Parade",
+    "page": 17
+  },
+  {
+    "number": 35,
+    "title": "Whistle Twice",
+    "page": 23
+  },
+  {
+    "number": 36,
+    "title": "Mudfest 13",
+    "page": null
+  },
+  {
+    "number": 37,
+    "title": "Unfaithful Stories",
+    "page": 22
+  },
+  {
+    "number": 38,
+    "title": "Wandering Flora",
+    "page": 22
+  },
+  {
+    "number": 39,
+    "title": "Deaf not Dim",
+    "page": 8
+  },
+  {
+    "number": 40,
+    "title": "Crackling at Dawn",
+    "page": 7
+  },
+  {
+    "number": 41,
+    "title": "Old Mill",
+    "page": 14
+  },
+  {
+    "number": 42,
+    "title": "Shadowed 17",
+    "page": null
+  },
+  {
+    "number": 43,
+    "title": "Thirst for Kindness",
+    "page": 21
+  },
+  {
+    "number": 44,
+    "title": "Predator and Prey",
+    "page": 15
+  },
+  {
+    "number": 45,
+    "title": "Moonshine Hideout",
+    "page": 13
+  },
+  {
+    "number": 46,
+    "title": "Downpour 9",
+    "page": null
+  },
+  {
+    "number": 47,
+    "title": "River Spring",
+    "page": 16
+  },
+  {
+    "number": 48,
+    "title": "Spirited Away",
+    "page": 18
+  },
+  {
+    "number": 49,
+    "title": "Standoff 18",
+    "page": null
+  },
+  {
+    "number": 50,
+    "title": "Whispering Stones",
+    "page": 22
+  },
+  {
+    "number": 51,
+    "title": "Professional Banditry",
+    "page": 16
+  },
+  {
+    "number": 52,
+    "title": "Traffic Hours",
+    "page": 21
+  },
+  {
+    "number": 53,
+    "title": "All Serpents in a Row",
+    "page": 5
+  },
+  {
+    "number": 54,
+    "title": "Dinner Raid",
+    "page": 8
+  },
+  {
+    "number": 55,
+    "title": "Noble Bastardry",
+    "page": 13
+  },
+  {
+    "number": 56,
+    "title": "Spirit of the Wild",
+    "page": 18
+  },
+  {
+    "number": 57,
+    "title": "Bad Merch",
+    "page": 5
+  },
+  {
+    "number": 58,
+    "title": "Sinkhole Season",
+    "page": 17
+  },
+  {
+    "number": 59,
+    "title": "Young Fun",
+    "page": 23
+  },
+  {
+    "number": 60,
+    "title": "Blast from the Past",
+    "page": 6
+  },
+  {
+    "number": 61,
+    "title": "One Trick Alchemist",
+    "page": 15
+  },
+  {
+    "number": 62,
+    "title": "Leery Lycanthrope",
+    "page": 12
+  },
+  {
+    "number": 63,
+    "title": "Silk Isn\u2019t No Game",
+    "page": 17
+  },
+  {
+    "number": 64,
+    "title": "Pilgrimage 15",
+    "page": null
+  },
+  {
+    "number": 65,
+    "title": "Hamlet of the Lost",
+    "page": 11
+  },
+  {
+    "number": 66,
+    "title": "Svendor the Magnificent",
+    "page": 19
+  },
+  {
+    "number": 67,
+    "title": "Punishment and the Crime",
+    "page": 16
+  },
+  {
+    "number": 68,
+    "title": "Drag Race",
+    "page": 9
+  },
+  {
+    "number": 69,
+    "title": "Innocent Lies",
+    "page": 12
+  },
+  {
+    "number": 70,
+    "title": "Entomology 9",
+    "page": null
+  },
+  {
+    "number": 71,
+    "title": "Cartographer 7",
+    "page": null
+  },
+  {
+    "number": 72,
+    "title": "Fluff Ambush",
+    "page": 10
+  },
+  {
+    "number": 73,
+    "title": "Cursed Crow",
+    "page": 7
+  },
+  {
+    "number": 74,
+    "title": "Cattle Raid",
+    "page": 7
+  },
+  {
+    "number": 75,
+    "title": "The \u2019\u2019Wine\u2019\u2019 Job",
+    "page": 19
+  },
+  {
+    "number": 76,
+    "title": "Washed Away",
+    "page": 22
+  },
+  {
+    "number": 77,
+    "title": "Sticky Brandwick",
+    "page": 18
+  },
+  {
+    "number": 78,
+    "title": "The Spear in Amber",
+    "page": 20
+  },
+  {
+    "number": 79,
+    "title": "The Man and the Bear",
+    "page": 20
+  },
+  {
+    "number": 80,
+    "title": "Desperate 8",
+    "page": null
+  },
+  {
+    "number": 81,
+    "title": "Basket Case",
+    "page": 5
+  },
+  {
+    "number": 82,
+    "title": "Caravan Family",
+    "page": 6
+  },
+  {
+    "number": 83,
+    "title": "Violet Creepers",
+    "page": 22
+  },
+  {
+    "number": 84,
+    "title": "Look the Sculptor in the Face",
+    "page": 12
+  },
+  {
+    "number": 85,
+    "title": "Shrine of Safe Travels",
+    "page": 17
+  },
+  {
+    "number": 86,
+    "title": "Gossiper 11",
+    "page": null
+  },
+  {
+    "number": 87,
+    "title": "Runaway Steed",
+    "page": 16
+  },
+  {
+    "number": 88,
+    "title": "Beggar\u2019s Riddle",
+    "page": 5
+  },
+  {
+    "number": 89,
+    "title": "Broken Axle",
+    "page": 6
+  },
+  {
+    "number": 90,
+    "title": "Elementary 9",
+    "page": null
+  },
+  {
+    "number": 91,
+    "title": "Prison Transport",
+    "page": 15
+  },
+  {
+    "number": 92,
+    "title": "High as the Sky",
+    "page": 12
+  },
+  {
+    "number": 93,
+    "title": "Hangman 11",
+    "page": null
+  },
+  {
+    "number": 94,
+    "title": "The Unburied",
+    "page": 20
+  },
+  {
+    "number": 95,
+    "title": "Cray-cray Nay-nay",
+    "page": 7
+  },
+  {
+    "number": 96,
+    "title": "Love Never Dies",
+    "page": 13
+  },
+  {
+    "number": 97,
+    "title": "The Long Game",
+    "page": 20
+  },
+  {
+    "number": 98,
+    "title": "The White Fox",
+    "page": 21
+  },
+  {
+    "number": 99,
+    "title": "Daily Chores",
+    "page": 8
+  },
+  {
+    "number": 100,
+    "title": "Troupe 21",
+    "page": null
+  }
+]
