@@ -1,0 +1,4 @@
+To run, do 
+```
+npm run dev --prefix web
+```
